@@ -1,1 +1,1 @@
-# small-game
+# small-game of tik tac toe
